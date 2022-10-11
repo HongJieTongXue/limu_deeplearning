@@ -1,0 +1,2 @@
+s = 'aaasdasd'
+print(s)
